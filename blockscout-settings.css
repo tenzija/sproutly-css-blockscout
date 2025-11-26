@@ -1,0 +1,53 @@
+.css-1ugghjh {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    outline: none;
+    gap: 0px;
+    cursor: pointer;
+    color: rgba(173, 241, 81, 1);
+    border-radius: var(--chakra-radii-l1);
+    --focus-ring-color: var(--chakra-colors-color-palette-focus-ring);
+}
+
+.css-1ugghjh:hover {
+    color: rgba(173, 241, 81, 0.8);
+}
+
+.css-1o2zlxj {
+    display: inline-flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    color: rgba(173, 241, 81, 1);
+    padding: 0px;
+    min-width: auto;
+    flex-shrink: 0;
+    width: var(--chakra-sizes-5);
+    height: var(--chakra-sizes-5);
+    border-radius: var(--chakra-radii-sm);
+}
+
+.css-1o2zlxj:hover {
+    color: rgba(173, 241, 81, 0.8);
+}
+
+.css-1fs0hew {
+    display: inline-flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    padding: var(--chakra-spacing-0\.5);
+    min-width: auto;
+    color: rgba(173, 241, 81, 1);
+    flex-shrink: 0;
+    width: var(--chakra-sizes-5);
+    height: var(--chakra-sizes-5);
+    border-radius: var(--chakra-radii-sm);
+}
+
+.css-1fs0hew:hover {
+    color: rgba(173, 241, 81, 0.8);
+}
