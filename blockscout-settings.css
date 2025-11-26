@@ -167,3 +167,51 @@ disabled]) {
     color: rgba(173, 241, 81, 1);
 }
 //// END MAIN BUTTON STYLES ////
+
+//// START FOOTER STYLES ////
+.css-130geuw {
+    display: flex;
+    appearance: none;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    user-select: none;
+    position: relative;
+    border-radius: var(--chakra-radii-base);
+    white-space: nowrap;
+    vertical-align: middle;
+    border-width: 2px;
+    border-color: rgba(173, 241, 81, 1);
+    cursor: var(--chakra-cursor-button);
+    flex-shrink: 0;
+    outline: 0px;
+    line-height: 1.25rem;
+    isolation: isolate;
+    font-weight: 600;
+    transition-property: background-color, border-color, color, fill, stroke, opacity, box-shadow, translate, transform;
+    transition-duration: var(--chakra-durations-moderate);
+    --focus-ring-color: var(--chakra-colors-color-palette-focus-ring);
+    gap: var(--chakra-spacing-1);
+    overflow: hidden;
+    height: var(--chakra-sizes-8);
+    min-width: var(--chakra-sizes-8);
+    padding-inline: var(--chakra-spacing-3);
+    font-size: var(--chakra-font-sizes-sm);
+    color: rgba(173, 241, 81, 1);
+    border-style: solid;
+    background: var(--chakra-colors-transparent);
+    --bg-currentcolor: var(--chakra-colors-transparent);
+}
+
+.css-u17nx {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    outline: none;
+    gap: 0px;
+    cursor: pointer;
+    border-radius: var(--chakra-radii-l1);
+    --focus-ring-color: var(--chakra-colors-color-palette-focus-ring);
+    color: rgba(173, 241, 81, 1);
+}
