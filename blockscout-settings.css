@@ -1,3 +1,5 @@
+
+//// START HEADER BUTTON STYLES ////
 .css-1ugghjh {
     display: inline-flex;
     -webkit-box-align: center;
@@ -50,4 +52,10 @@
 
 .css-1fs0hew:hover {
     color: rgba(173, 241, 81, 0.8);
+}
+//// END HEADER BUTTON STYLES ////
+
+//// START SIDEBAR BUTTON STYLES ////
+.css-1y2do5:hover {
+    background-color: rgba(173, 241, 81, 1);
 }
