@@ -1,2 +1,2 @@
 # sproutly-css-blockscout
-Used as default CSS settings file for our Sproutl block explorers
+Used as default CSS settings file for our Sproutly block explorers
