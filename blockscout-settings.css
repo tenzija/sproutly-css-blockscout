@@ -42,7 +42,7 @@
     outline: none;
     gap: 0px;
     cursor: pointer;
-    color: rgba(173, 241, 81, 1);
+    color: rgba(173, 241, 81, 1) !important;
     border-radius: var(--chakra-radii-l1);
     --focus-ring-color: var(--chakra-colors-color-palette-focus-ring);
 }
@@ -57,7 +57,7 @@
     justify-content: center;
     -webkit-box-align: center;
     align-items: center;
-    color: rgba(173, 241, 81, 1);
+    color: rgba(173, 241, 81, 1) !important;
     padding: 0px;
     min-width: auto;
     flex-shrink: 0;
@@ -78,7 +78,7 @@
     align-items: center;
     padding: var(--chakra-spacing-0\.5);
     min-width: auto;
-    color: rgba(173, 241, 81, 1);
+    color: rgba(173, 241, 81, 1) !important;
     flex-shrink: 0;
     width: var(--chakra-sizes-5);
     height: var(--chakra-sizes-5);
@@ -86,40 +86,40 @@
 }
 
 .css-1fs0hew:hover {
-    color: rgba(173, 241, 81, 0.8);
+    color: rgba(173, 241, 81, 0.8) !important;
 }
 //// END HEADER BUTTON STYLES ////
 
 //// START SIDEBAR BUTTON STYLES ////
 .css-1y2do5:hover {
-    background-color: rgba(173, 241, 81, 1);
+    background-color: rgba(173, 241, 81, 1) !important;
 }
 //// END SIDEBAR BUTTON STYLES ////
 
 //// START MAIN BUTTON STYLES ////
 .dark .css-1cl5utq, .dark .chakra-theme:not(.light) .css-1cl5utq {
-    background: radial-gradient(103.03% 103.03% at 0% 0%, rgba(173, 241, 81, 0.8) 0%, rgba(46, 204, 113, 0.8) 100%), rgba(173, 241, 81, 1);
-    --bg-currentcolor: radial-gradient(103.03% 103.03% at 0% 0%, rgba(173, 241, 81, 0.8) 0%, rgba(46, 204, 113, 0.8) 100%), rgba(173, 241, 81, 1);
+    background: radial-gradient(103.03% 103.03% at 0% 0%, rgba(173, 241, 81, 0.8) 0%, rgba(46, 204, 113, 0.8) 100%), rgba(173, 241, 81, 1) !important;
+    --bg-currentcolor: radial-gradient(103.03% 103.03% at 0% 0%, rgba(173, 241, 81, 0.8) 0%, rgba(46, 204, 113, 0.8) 100%), rgba(173, 241, 81, 1) !important;
     border: none;
 }
 
 .dark .css-larru8, .dark .chakra-theme:not(.light) .css-larru8 {
-    color: #171717;
+    color: #171717 !important;
 }
 
 .css-efxvh4:is([aria-selected="true"], [data-selected]) {
-    background: #171717;
-    --bg-currentcolor: #171717;
-    color: #171717;
+    background: #171717 !important;
+    --bg-currentcolor: #171717 !important;
+    color: #171717 !important;
 }
 
 @media (hover: hover) {
     .css-efxvh4:is([aria-selected="true"], [data-
     selected]):is(:hover, [data-hover]):not(:disabled, [data-
     disabled]) {
-        background: #171717;
-        --bg-currentcolor: #171717;
-        color: rgba(173, 241, 81, 1); 
+        background: #171717 !important;
+        --bg-currentcolor: #171717 !important;
+        color: rgba(173, 241, 81, 1) !important; 
     }
 }
 
@@ -131,20 +131,20 @@
     gap: var(--chakra-spacing-2);
     margin-bottom: var(--chakra-spacing-3);
     overflow: hidden;
-    color: rgba(173, 241, 81, 1);
+    color: rgba(173, 241, 81, 1) !important;
 }
 
 .css-1wmlgtj {
     font-size: var(--chakra-font-sizes-sm);
     line-height: 1.25rem;
-    color: rgba(173, 241, 81, 1);
+    color: rgba(173, 241, 81, 1) !important;
 }
 
 @media (hover: hover) {
 <style>
 .css-1cdop6v:is(:hover, [data-hover]):not(:disabled, [data-
 disabled]) {
-    color: rgba(173, 241, 81, 1);
+    color: rgba(173, 241, 81, 1) !important;
 }
 
 .css-1tglra9 {
@@ -152,7 +152,7 @@ disabled]) {
     display: none;
     font-size: var(--chakra-font-sizes-sm);
     line-height: 1.25rem;
-    color: rgba(173, 241, 81, 1);
+    color: rgba(173, 241, 81, 1) !important;
 }
 
 .css-1ach3l0 {
@@ -164,7 +164,7 @@ disabled]) {
     cursor: pointer;
     border-radius: var(--chakra-radii-l1);
     --focus-ring-color: var(--chakra-colors-color-palette-focus-ring);
-    color: rgba(173, 241, 81, 1);
+    color: rgba(173, 241, 81, 1) !important;
 }
 //// END MAIN BUTTON STYLES ////
 
@@ -182,7 +182,7 @@ disabled]) {
     white-space: nowrap;
     vertical-align: middle;
     border-width: 2px;
-    border-color: rgba(173, 241, 81, 1);
+    border-color: rgba(173, 241, 81, 1) !important;
     cursor: var(--chakra-cursor-button);
     flex-shrink: 0;
     outline: 0px;
@@ -198,7 +198,7 @@ disabled]) {
     min-width: var(--chakra-sizes-8);
     padding-inline: var(--chakra-spacing-3);
     font-size: var(--chakra-font-sizes-sm);
-    color: rgba(173, 241, 81, 1);
+    color: rgba(173, 241, 81, 1) !important;
     border-style: solid;
     background: var(--chakra-colors-transparent);
     --bg-currentcolor: var(--chakra-colors-transparent);
@@ -213,6 +213,6 @@ disabled]) {
     cursor: pointer;
     border-radius: var(--chakra-radii-l1);
     --focus-ring-color: var(--chakra-colors-color-palette-focus-ring);
-    color: rgba(173, 241, 81, 1);
+    color: rgba(173, 241, 81, 1) !important;
 }
 //// END FOOTER STYLES ////
