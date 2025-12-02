@@ -144,6 +144,11 @@ disabled]) {
     color: rgba(173, 241, 81, 1) !important;
 }
 
+.css-130geuw:hover {
+    border-color: rgba(173, 241, 81, 0.8) !important;
+    color: rgba(173, 241, 81, 0.8) !important;
+}
+
 .css-u17nx {
     color: rgba(173, 241, 81, 1) !important;
 }
