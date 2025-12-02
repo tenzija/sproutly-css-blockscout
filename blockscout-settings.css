@@ -70,7 +70,23 @@
 
 //// START SIDEBAR BUTTON STYLES ////
 .css-1y2do5:hover {
-    background-color: rgba(173, 241, 81, 1) !important;
+    background-color: rgba(173, 241, 81, 0.8) !important;
+}
+
+.css-1d5ol6m:hover {
+    background-color: rgba(173, 241, 81, 0.8) !important;
+}
+
+.css-nz2xmh:hover {
+    background-color: rgba(173, 241, 81, 0.8) !important;
+}
+
+.css-1qd1fm9:hover {
+    background-color: rgba(173, 241, 81, 0.8) !important;
+}
+
+.css-1tbuz7w:hover {
+    background-color: rgba(173, 241, 81, 0.8) !important;
 }
 //// END SIDEBAR BUTTON STYLES ////
 
